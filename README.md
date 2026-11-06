@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/01480061158dd639d6f313bdcd8809f838ab1f4f/assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Analítica de datos y BI. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
+  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/1d4e609751c72776c81e8837efd707633bdf1373/assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Ingeniero industrial, especialista en Analítica de Datos Aplicada a los Negocios. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
 </p>
 
 <p align="center">
-  <b>Ingeniería industrial · Analítica de datos · Aprendizaje continuo</b><br/>
+  <b>Ingeniero industrial · Especialista en Analítica de Datos Aplicada a los Negocios</b><br/>
   Maestría en Inteligencia Artificial <b>en curso</b> · Universidad de La Salle<br/>
   Transformar datos en preguntas claras, análisis comprensibles y herramientas útiles.
 </p>
@@ -16,7 +16,7 @@
 
 ## Hola, soy Juan Diego 👋
 
-Soy **ingeniero industrial**, con formación en **Analítica de Datos Aplicada a los Negocios** y una **Maestría en Inteligencia Artificial en curso en la Universidad de La Salle**.
+Soy **ingeniero industrial** y **especialista en Analítica de Datos Aplicada a los Negocios**. Actualmente curso la **Maestría en Inteligencia Artificial en la Universidad de La Salle**.
 
 Mi portafolio reúne proyectos académicos de análisis, visualización y modelado. Me interesa conectar los problemas de negocio y los datos públicos con soluciones que pueda construir, explicar y mejorar.
 
