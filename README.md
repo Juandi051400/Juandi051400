@@ -25,69 +25,25 @@ Mi portafolio reúne proyectos académicos de análisis, visualización y modela
 | **Inteligencia artificial** | Fundamentos de programación y aprendizaje automático, con práctica progresiva. |
 | **Investigación** | Anteproyecto sobre patrones atípicos en contratación pública con datos de SECOP II, actualmente en preparación. |
 
+## Herramientas
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/0730685a13e5e4e18d26e612ff6df164b58a6ddc/assets/herramientas.svg" width="100%" alt="Power BI, Tableau, SQL, Python, pandas, Dash y Plotly, scikit-learn, Git y GitHub" />
+</p>
+
 ## Proyecto destacado · Mortalidad en Colombia
 
-<a href="https://github.com/Juandi051400/mortalidad-colombia-2019">
-  <img src="https://raw.githubusercontent.com/Juandi051400/mortalidad-colombia-2019/main/docs/capturas/01_consulta_colombia.png" width="100%" alt="Dashboard de mortalidad: consulta de Colombia con evolución mensual y grupos de edad" />
-</a>
-
-**Una aplicación interactiva para explorar estadísticas de mortalidad de Colombia de 2019.** Desarrollada en Aplicaciones I de la Maestría en Inteligencia Artificial, con datos agregados del DANE, siete visualizaciones y filtros departamentales.
+Dashboard interactivo para explorar datos agregados del DANE de 2019, con siete visualizaciones y filtros por departamento.
 
 **Python · pandas · Dash · Plotly**
 
 [Explorar el código y la documentación](https://github.com/Juandi051400/mortalidad-colombia-2019) · [Abrir la aplicación](https://mortalidad-colombia-2019-rqso.onrender.com/)
-
-<sub>Las visualizaciones presentan conteos de los registros analizados. Su interpretación y sus límites están documentados en el repositorio.</sub>
 
 ## Otros proyectos
 
 | Proyecto | Problema y aporte | Alcance actual |
 | --- | --- | --- |
 | [**Pronóstico de ventas en el sector textil**](https://github.com/Juandi051400/pronostico-ventas-sector-textil) | Caso académico en coautoría: preparación de datos y comparación de modelos de pronóstico siguiendo CRISP-DM. | Ficha del trabajo de grado de especialización de 2023. Documentación pública; los datos comerciales y cuadernos originales no están incluidos. |
-
-## Herramientas y habilidades
-
-<details open>
-<summary><b>📊 Analítica y Business Intelligence</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge" alt="Tableau" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL" />
-</p>
-
-Preparación y validación de datos, indicadores, visualización y reportes. Uso de **DAX y Power Query** en Power BI.
-
-</details>
-
-<details>
-<summary><b>🐍 Python y dashboards interactivos</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge" alt="Dash" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-</p>
-
-Limpieza y transformación de datos, automatización de reportes y aplicaciones para explorar información. [Proyecto de referencia: mortalidad en Colombia](https://github.com/Juandi051400/mortalidad-colombia-2019).
-
-</details>
-
-<details>
-<summary><b>🧠 Modelado académico y documentación</b></summary>
-<br/>
-
-<p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git y GitHub" />
-</p>
-
-Experiencia académica en **pronóstico de ventas**, comparación de modelos y métricas de error. Documentación del problema, las fuentes, los resultados y sus límites. [Caso de estudio en coautoría](https://github.com/Juandi051400/pronostico-ventas-sector-textil).
-
-</details>
 
 ## Lo que quiero seguir construyendo
 
