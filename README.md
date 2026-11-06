@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Analítica de datos y BI. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
+  <img src="assets/portada.svg?v=maestria-en-curso" width="100%" alt="Juan Diego Londoño Álvarez — Analítica de datos y BI. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
 </p>
 
 <p align="center">
