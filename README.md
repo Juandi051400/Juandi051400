@@ -3,12 +3,6 @@
 </p>
 
 <p align="center">
-  <b>Ingeniero industrial · Especialista en Analítica de Datos Aplicada a los Negocios</b><br/>
-  Maestría en Inteligencia Artificial <b>en curso</b> · Universidad de La Salle<br/>
-  Transformar datos en preguntas claras, análisis comprensibles y herramientas útiles.
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/54d55e504b5f72869d5b02496ce763e63fb9c58c/assets/enfoque-animado.svg" width="100%" alt="Texto animado: Analítica de datos y Business Intelligence; Python, SQL, Power BI y Tableau; dashboards con Dash y Plotly; Maestría en Inteligencia Artificial en curso." />
 </p>
 
@@ -18,7 +12,7 @@
   <a href="https://github.com/Juandi051400?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mis repositorios" /></a>
 </p>
 
-## Hola, soy Juan Diego 👋
+## Sobre mí
 
 Soy **ingeniero industrial** y **especialista en Analítica de Datos Aplicada a los Negocios**. Actualmente curso la **Maestría en Inteligencia Artificial en la Universidad de La Salle**.
 
