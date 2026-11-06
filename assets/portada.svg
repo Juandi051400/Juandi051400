@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="360" viewBox="0 0 1400 360" role="img" aria-labelledby="title desc">
+<title id="title">Juan Diego Londoño Álvarez</title>
+<desc id="desc">Analítica de datos, BI e inteligencia artificial aplicada. Portada con fondo oscuro, acentos violeta y una gráfica ascendente.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1117"/><stop offset=".6" stop-color="#24123e"/><stop offset="1" stop-color="#5b21b6"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#c4b5fd"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+ <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M 42 0 L 0 0 0 42" fill="none" stroke="#ffffff" stroke-opacity=".045"/></pattern>
+</defs>
+<rect width="1400" height="360" rx="24" fill="url(#bg)"/>
+<rect width="1400" height="360" rx="24" fill="url(#grid)"/>
+<circle cx="1280" cy="40" r="180" fill="#a855f7" opacity=".09"/>
+<circle cx="1150" cy="330" r="190" fill="#22d3ee" opacity=".035"/>
+<rect x="64" y="56" width="230" height="32" rx="16" fill="#a78bfa" fill-opacity=".15" stroke="#a78bfa" stroke-opacity=".35"/>
+<text x="82" y="78" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="2" fill="#ddd6fe">DATOS CON PROPÓSITO</text>
+<text x="64" y="151" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#ffffff">Juan Diego</text>
+<text x="64" y="210" font-family="Segoe UI,Arial,sans-serif" font-size="49" font-weight="700" fill="#ffffff">Londoño Álvarez</text>
+<text x="67" y="251" font-family="Segoe UI,Arial,sans-serif" font-size="22" fill="#ddd6fe">Analítica de datos · BI · Inteligencia artificial aplicada</text>
+<text x="67" y="299" font-family="Segoe UI,Arial,sans-serif" font-size="16" letter-spacing="1" fill="#a5b4cf">APRENDER  /  CONSTRUIR  /  EXPLICAR</text>
+<g transform="translate(960 77)">
+ <path d="M0 205H340M0 145H340M0 85H340M0 25H340" stroke="#c4b5fd" opacity=".13"/>
+ <rect x="22" y="148" width="36" height="57" rx="5" fill="#8b5cf6" opacity=".4"/>
+ <rect x="86" y="112" width="36" height="93" rx="5" fill="#8b5cf6" opacity=".55"/>
+ <rect x="150" y="128" width="36" height="77" rx="5" fill="#8b5cf6" opacity=".65"/>
+ <rect x="214" y="67" width="36" height="138" rx="5" fill="#a78bfa" opacity=".7"/>
+ <rect x="278" y="25" width="36" height="180" rx="5" fill="#c4b5fd" opacity=".75"/>
+ <path d="M40 123L104 87L168 103L232 42L296 0" fill="none" stroke="url(#line)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+ <g fill="#e9d5ff" stroke="#5b21b6" stroke-width="3"><circle cx="40" cy="123" r="6"/><circle cx="104" cy="87" r="6"/><circle cx="168" cy="103" r="6"/><circle cx="232" cy="42" r="6"/><circle cx="296" cy="0" r="6"/></g>
+ <text x="20" y="245" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="2" fill="#c4b5fd">PREGUNTAS → DATOS → IDEAS</text>
+</g>
+<path d="M0 338C300 300 700 386 1400 306V360H0Z" fill="#0d1117" opacity=".6"/>
+</svg>
