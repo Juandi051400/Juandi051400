@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Analítica de datos, BI e inteligencia artificial aplicada" />
+  <img src="assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Analítica de datos y BI. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
 </p>
 
 <p align="center">
   <b>Ingeniería industrial · Analítica de datos · Aprendizaje continuo</b><br/>
+  Maestría en Inteligencia Artificial <b>en curso</b> · Universidad de La Salle<br/>
   Transformar datos en preguntas claras, análisis comprensibles y herramientas útiles.
 </p>
 
