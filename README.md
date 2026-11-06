@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/1d4e609751c72776c81e8837efd707633bdf1373/assets/portada.svg" width="100%" alt="Juan Diego Londoño Álvarez — Ingeniero industrial, especialista en Analítica de Datos Aplicada a los Negocios. Maestría en Inteligencia Artificial en curso, Universidad de La Salle" />
+  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/7add6da98e7a2ac45a70ab11e91fc6b107bfe9ea/assets/portada-linkedin.png" width="100%" alt="Juan Diego Londoño Álvarez · Especialista en Analítica de Datos · Maestría en Inteligencia Artificial en curso · Power BI, Tableau, Python y SQL" />
 </p>
 
 <p align="center">
