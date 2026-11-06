@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Juandi051400/Juandi051400/54d55e504b5f72869d5b02496ce763e63fb9c58c/assets/enfoque-animado.svg" width="100%" alt="Texto animado: Analítica de datos y Business Intelligence; Python, SQL, Power BI y Tableau; dashboards con Dash y Plotly; Maestría en Inteligencia Artificial en curso." />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/juan-diego-londo%C3%B1o-%C3%A1lvarez-6a70811ab/"><img src="https://img.shields.io/badge/LinkedIn-Conectemos-0A66C2?style=for-the-badge" alt="Mi perfil de LinkedIn" /></a>
   <a href="https://mortalidad-colombia-2019-rqso.onrender.com/"><img src="https://img.shields.io/badge/Dashboard-Ver%20aplicaci%C3%B3n-7C3AED?style=for-the-badge" alt="Abrir el dashboard de mortalidad" /></a>
   <a href="https://github.com/Juandi051400?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Mis%20proyectos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Mis repositorios" /></a>
@@ -47,18 +51,49 @@ Mi portafolio reúne proyectos académicos de análisis, visualización y modela
 | --- | --- | --- |
 | [**Pronóstico de ventas en el sector textil**](https://github.com/Juandi051400/pronostico-ventas-sector-textil) | Caso académico en coautoría: preparación de datos y comparación de modelos de pronóstico siguiendo CRISP-DM. | Ficha del trabajo de grado de especialización de 2023. Documentación pública; los datos comerciales y cuadernos originales no están incluidos. |
 
-## Herramientas de mis proyectos y estudios
+## Herramientas y habilidades
+
+<details open>
+<summary><b>📊 Analítica y Business Intelligence</b></summary>
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge" alt="Tableau" />
+  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL" />
+</p>
+
+Preparación y validación de datos, indicadores, visualización y reportes. Uso de **DAX y Power Query** en Power BI.
+
+</details>
+
+<details>
+<summary><b>🐍 Python y dashboards interactivos</b></summary>
+<br/>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Dash-008DE4?style=for-the-badge" alt="Dash" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
+
+Limpieza y transformación de datos, automatización de reportes y aplicaciones para explorar información. [Proyecto de referencia: mortalidad en Colombia](https://github.com/Juandi051400/mortalidad-colombia-2019).
+
+</details>
+
+<details>
+<summary><b>🧠 Modelado académico y documentación</b></summary>
+<br/>
+
+<p>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-1F77B4?style=for-the-badge" alt="Tableau" />
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Git y GitHub" />
 </p>
+
+Experiencia académica en **pronóstico de ventas**, comparación de modelos y métricas de error. Documentación del problema, las fuentes, los resultados y sus límites. [Caso de estudio en coautoría](https://github.com/Juandi051400/pronostico-ventas-sector-textil).
+
+</details>
 
 ## Lo que quiero seguir construyendo
 
